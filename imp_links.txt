@@ -1,0 +1,9 @@
+camera plugin doc ------
+https://github.com/apache/cordova-plugin-camera/blob/dev/doc/index.md
+
+geolocation plugin docs -------------------
+https://github.com/apache/cordova-plugin-geolocation/blob/dev/doc/index.md
+That notice should provide the same information noted above, as well as obtaining the user's permission (e.g., by presenting choices for OK and No Thanks). For more information, please see the Privacy Guide.
+
+dialogs plugin docs -------------------
+https://github.com/apache/cordova-plugin-dialogs/blob/dev/doc/index.md
